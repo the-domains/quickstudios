@@ -1,14 +1,8 @@
 layout_spectrum: 0.4795918
-typography_spectrum: 0.7373791
 color:
   saturation: 0.5354457
+  brandStrength: 0.4967777
   lightness: 0.6901182
-  brandStrength: 1
   rhythmicContrast: 0.367884
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+typography_spectrum: 0.7373791
 name: Quickstudios
