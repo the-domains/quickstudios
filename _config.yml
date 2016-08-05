@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7373791
 color:
   saturation: 0.8834586
   brandStrength: 0.5386681
@@ -22,5 +21,6 @@ color:
     - '#FFE7B3'
     - '#FAAD3B'
   rhythmicContrast: 0.367884
-layout_spectrum: 0.4795918
+typography_spectrum: 0.7373791
+layout_spectrum: 0
 name: Quickstudios
