@@ -1,8 +1,20 @@
-layout_spectrum: 0.4795918
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7373791
 color:
-  saturation: 0.4935553
+  saturation: 0.8834586
   brandStrength: 0.4967777
   lightness: 0.5085929
   rhythmicContrast: 0.367884
-typography_spectrum: 0.7373791
+layout_spectrum: 0.4795918
 name: Quickstudios
